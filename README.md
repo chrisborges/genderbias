@@ -10,5 +10,8 @@ There is a significant disparity in citation counts between papers with male and
 
 **Description of files.**
 
-1. *scrape.py*. 
-2. Test2
+1. *scrape.py*. Scrape information from statistical journals. Some of the scripts used to scrape have been lost, and this file preserves everything I could find from my scraping scripts. 
+2. *cleanauthors.py*. Store authors information into a dictionary to make it much easier to match authors with their papers and figure out how many authors are unique. 
+3. *genderdetection.py*. Use an API to determine the gender (or likely gender) of an author given their name. Some authors returned Unknown and needed to be identified through other means. 
+4. *cleandata.R*. After data has been compiled, perform cleaning tasks such as removal or imputation of missing fields and combining similar categories of certain categorical variables. 
+5. *analysis.R*. Exploratory analysis and modelling of the data. 
