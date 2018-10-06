@@ -9,5 +9,6 @@ Consists of 3,246 journal papers with 1,889 unique authors. There are 6 variable
 There is a significant disparity in citation counts between papers with male and female (first) authors, but they can be largely explained by two primary factors: A relatively small number of highly prolific authors with high citation counts (mostly male), and the fact that there appear to be less women at higher seniority positions in academia (Professor or Distinguished Professor). From a sociological perspective, I do not feel qualified to comment on whether this constitutes gender bias, but the data does seem to suggest that the statistics world is trending in a direction of greater equality. 
 
 **Description of files.**
+
 -Test
 -Test2
