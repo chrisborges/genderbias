@@ -15,3 +15,4 @@ There is a significant disparity in citation counts between papers with male and
 3. *genderdetection.py*. Use an API to determine the gender (or likely gender) of an author given their name. Some authors returned Unknown and needed to be identified through other means. 
 4. *cleandata.R*. After data has been compiled, perform cleaning tasks such as removal or imputation of missing fields and combining similar categories of certain categorical variables. 
 5. *analysis.R*. Exploratory analysis and modelling of the data. 
+6. *genderbiasdata.txt*. Text file containing the dataset. 
