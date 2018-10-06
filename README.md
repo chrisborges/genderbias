@@ -3,4 +3,7 @@ The goal of the project is to assess whether gender bias exists in statistical j
 
 
 **Brief description of data**
+Consists of 3,246 journal papers with 1,889 unique authors. There are 6 variables total: citation count (response), gender, publication year, year obtained PhD, job title (including seniority if in academia), employment country. 
 
+**Results** 
+It appears that while there is a significant disparity in citation counts between papers with male and female (first) authors, they can be largely explained by two primary factors: A relatively small number of highly prolific authors with high citation counts (mostly male), and the fact that there appear to be less women at higher seniority positions in academia (Professor or Distinguished Professor). 
